@@ -1,1 +1,3 @@
 # game-design
+
+Idea: RateMyTeacher
