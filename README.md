@@ -1,6 +1,5 @@
 # game-design
 
-Idea: RateMyTeacher
 
 **Introduction:**
 This is a mobile app that acts like an anonymous discussion forum for Harvard-Westlake students. It allows users to post content and engage in discussions while maintaining their anonymity. The primary target audience for this platform is all the high school students at a particular school, providing a secure space for open and honest conversations.
